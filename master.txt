@@ -1,3 +1,7 @@
 1.create a new file
 2.write something here
-3.write and quite
+3.write and quit
+
+4.this is the second commit
+5.It's a good way to learn the knowledge about git
+6.bye~
